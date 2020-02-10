@@ -1,0 +1,2 @@
+# LedTapeSimulator
+ハッカソンの開発で必要になって作ったLEDテープ(NeoPixel)シミュレーターっぽいもの
